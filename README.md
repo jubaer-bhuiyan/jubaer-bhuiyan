@@ -1,4 +1,4 @@
-# Hi there, I'm Jubaer Bhuiyan! 👋
+# Hi there, I'm Jubaer Ahamed Bhuiyan! 👋
 
 ## About Me
 - 👀 I’m interested in technology, travel, and coding.
