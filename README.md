@@ -5,9 +5,8 @@
 <h1 align="center">Hi there, I'm Jubaer Ahamed Bhuiyan 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/jubaer-bhuiyan.png" width="150" alt="Jubaer's Avatar" />
+  <img src="https://drive.google.com/uc?export=view&id=1cQcT1OHL9suoY_d7rX67NZ_oaq1I68Uw" width="200" alt="Jubaer Ahamed Bhuiyan" />
 </p>
-
 <p align="center">
   💻 Aspiring Software Developer • 🚀 Tech Enthusiast • 🌍 Travel Lover
 </p>
