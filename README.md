@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jubaer-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="jubaer-bhuiyan" />
+  <img src="https://komarev.com/ghpvc/?username=jubaer-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h1 align="center">Hi there, I'm Jubaer Ahamed Bhuiyan 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/jubaer-bhuiyan.png" width="150" alt="Jubaer's Avatar" />
+</p>
 
 <p align="center">
   💻 Aspiring Software Developer • 🚀 Tech Enthusiast • 🌍 Travel Lover
@@ -13,12 +17,11 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science student at [IUBAT](https://www.iubat.edu/)
-- 👨‍💻 Passionate about software development, learning new tech, and building cool things
-- 🌱 Currently improving my skills in **Web Development**, **DSA**, and **OOP**
-- 💡 I love solving real-world problems with elegant code
-- ✨ Open to collaborating on open-source and academic projects
-- 🏖️ Fun Fact: Nothing beats a chill day at Cox’s Bazar!
-- 📬 Reach me anytime: [jubaerahamed4444@gmail.com](mailto:jubaerahamed4444@gmail.com)
+- 🌱 Currently enhancing skills in **Web Development**, **Data Structures**, and **Algorithms**
+- 🔭 Passionate about building impactful software solutions
+- 💬 Open to collaborating on innovative projects and open-source contributions
+- 📫 Reach me at: [jubaerahamed4444@gmail.com](mailto:jubaerahamed4444@gmail.com)
+- ⚡ Fun Fact: I love exploring new places, especially the serene beaches of Cox's Bazar! 🏖️
 
 ---
 
@@ -49,13 +52,26 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌟 Featured Projects
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jubaer-ahamed-bhuiyan-02896a175/)
-- 🐦 [Twitter / X](https://x.com/JubaerAhamed3?t=OrmTGWbIJwpfhxhdAnGOYw&s=09)
-- 🌍 [Portfolio Website](https://jabhuiyan.github.io/)
-- 📧 [Email Me](mailto:jubaerahamed4444@gmail.com)
+Here are some of my notable projects:
+
+- 🎯 [Car Parking Management System](https://github.com/jubaer-bhuiyan/Car-Parking-Management-System): A web application developed using PHP and MySQL to manage car parking efficiently. 
+
+- 🕹️ [Alien Invaders Game](https://github.com/jubaer-bhuiyan/Alien-Invaders-by-Python-pygame): A classic arcade-style game built with Python and Pygame. 
+
+- 🧠 [Dengue Prevention OpenGL Project](https://github.com/jubaer-bhuiyan/Dengue-Prevention-OpenGL-Graphics-Project): An OpenGL graphics project aimed at raising awareness about dengue prevention. 
+
+- ❌ [Tic Tac Toe with AI](https://github.com/jubaer-bhuiyan/tic-tac-toe-pygame): A simple Tic Tac Toe game built with Pygame, featuring an AI opponent that plays strategically. 
 
 ---
 
-*Thanks for stopping by! Feel free to explore my projects or drop me a message.*
+## 📫 Let's Connect
+
+- 📧 Email: [jubaerahamed4444@gmail.com](mailto:jubaerahamed4444@gmail.com)
+- 🐦 Twitter: [@JubaerAhamed3](https://x.com/JubaerAhamed3?t=OrmTGWbIJwpfhxhdAnGOYw&s=09)
+- 💼 LinkedIn: [Jubaer Ahamed Bhuiyan](https://www.linkedin.com/in/jubaer-ahamed-bhuiyan-02896a175/)
+
+---
+
+*Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!*
