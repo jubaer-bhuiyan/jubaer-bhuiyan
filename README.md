@@ -45,11 +45,11 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jubaer-bhuiyan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="48%" src="https://jubaer-stats.vercel.app/api?username=jubaer-bhuiyan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubaer-bhuiyan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img width="48%" src="https://jubaer-stats.vercel.app/api/top-langs/?username=jubaer-bhuiyan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-<img width="96%" src="https://streak-stats.demolab.com/?user=jubaer-bhuiyan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img width="96%" src="https://jubaer-streak.vercel.app?user=jubaer-bhuiyan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 ---
