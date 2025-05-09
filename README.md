@@ -41,13 +41,25 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubaer-bhuiyan&show_icons=true&theme=radical" alt="Jubaer's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubaer-bhuiyan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+
+<a href="https://github.com/jubaer-bhuiyan">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jubaer-bhuiyan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Jubaer's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/jubaer-bhuiyan">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubaer-bhuiyan&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/jubaer-bhuiyan">
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com?user=jubaer-bhuiyan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</a>
+
+</div>
 
 ---
 
