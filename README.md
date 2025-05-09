@@ -49,7 +49,8 @@
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubaer-bhuiyan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com?user=jubaer-bhuiyan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+![GitHub stats](https://img.shields.io/github/followers/jubaer-bhuiyan?label=Followers&style=social)
+
 
 </div>
 
