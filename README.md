@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student at [IUBAT](https://www.iubat.edu/)
+- 🎓 Computer Science student at [IUBAT - International University of Business Agriculture and Technology](https://www.iubat.edu/)
 - 🌱 Currently enhancing skills in **Web Development**, **Data Structures**, and **Algorithms**
 - 🔭 Passionate about building impactful software solutions
 - 💬 Open to collaborating on innovative projects and open-source contributions
