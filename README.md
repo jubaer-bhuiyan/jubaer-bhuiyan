@@ -53,7 +53,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubaer-bhuiyan&show_icons=true&theme=sea&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubaer-bhuiyan&theme=sea" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubaer-bhuiyan&layout=compact&theme=sea" alt="Top Langs"/>
 </p>
 
 <!-- Fallback static stats for reliability
