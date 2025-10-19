@@ -15,9 +15,10 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8A8B&width=435&lines=Aspirant+%2C+Learner+%2C+Student+at+IUBAT;Python+Django+Developer;Backend+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
-</div>
+## 👋 Hi, I'm Jubaer Ahamed Bhuiyan
+
+> **Aspirant, Learner, Student at IUBAT**  
+> **Python & Django Developer | Backend Enthusiast | Always Learning & Building**
 
 ---
 
@@ -28,25 +29,23 @@
 - 🔗 [Car Parking](https://github.com/jubaer-bhuiyan/car-parking)
 - 🔗 [Django Password Generator](https://github.com/jubaer-bhuiyan/django-password-generator)
 
-*Discover more on my [GitHub Repositories](https://github.com/jubaer-bhuiyan?tab=repositories)!*
+*See more on my [GitHub Repositories](https://github.com/jubaer-bhuiyan?tab=repositories)!*
 
 ---
 
 ## 🛠️ Skills & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -55,16 +54,22 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubaer-bhuiyan&theme=sea" alt="GitHub Streak"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jubaer-bhuiyan&show_icons=true&theme=sea&hide_title=true" alt="GitHub Stats"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubaer-bhuiyan&layout=compact&theme=sea" alt="Top Langs"/>
+</p>
 
-<!-- Snake Contribution Graph -->
+---
+
+## 🐍 Contribution Snake
+
+> Requires GitHub Action setup!  
+> If you want this working, I can guide you in setting it up.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;">
-  <br>
-  <em>Watch my contributions come alive!</em>
 </p>
 
 ---
