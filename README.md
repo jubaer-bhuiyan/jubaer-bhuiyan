@@ -10,20 +10,18 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jubaer-ahamed-bhuiyan/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://baerbhuiyan2001.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-4F8A8B?logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:jubaerahamed4444@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Student at **IUBAT - International University of Business Agriculture and Technology**
-- 🐍 Python Developer | Django Enthusiast
-- 💡 Passionate about building efficient and impactful web applications
-- 🌱 Lifelong learner, always curious and exploring new tech
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8A8B&width=435&lines=Aspirant+%2C+Learner+%2C+Student+at+IUBAT;Python+Django+Developer;Backend+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚩 Featured Projects
 
 - 🔗 [Personal Portfolio](https://github.com/jubaer-bhuiyan/personal-portfolio)
 - 🔗 [Clinic Management System](https://github.com/jubaer-bhuiyan/clinic-management-system)
@@ -36,24 +34,50 @@
 
 ## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jubaer-ahamed-bhuiyan/)
-- 🌐 [Personal Website](https://baerbhuiyan2001.pythonanywhere.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubaer-bhuiyan&theme=sea" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jubaer-bhuiyan&show_icons=true&theme=sea&hide_title=true" alt="GitHub Stats"/>
+</p>
+
+<!-- Snake Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;">
+  <br>
+  <em>Watch my contributions come alive!</em>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/jubaer-ahamed-bhuiyan/)
+- [Portfolio Website](https://baerbhuiyan2001.pythonanywhere.com)
 - 📧 Email: jubaerahamed4444@gmail.com
 
 ---
 
-## ⚡ Fun Fact
+## ✨ Fun Fact
 
 > “Turning ideas into reality, one line of code at a time.”  
 > _Coffee + Code = Productivity ☕_
@@ -61,7 +85,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubaer-bhuiyan&theme=sea" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubaer-bhuiyan&layout=compact&theme=sea" alt="Top Langs"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8A8B,100:8FD6E1&height=120&section=footer"/>
 </p>
