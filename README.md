@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8A8B&width=435&center=true&lines=Aspirant%2C+Learner%2C+Student+at+IUBAT;Python+Django+Developer;Backend+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8A8B&width=435&center=true&lines=Aspirant%2C+Learner%2C+Student;Python+Django+Developer;Backend+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
 
 ---
