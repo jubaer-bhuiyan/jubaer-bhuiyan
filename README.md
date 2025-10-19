@@ -23,10 +23,10 @@
 
 ## 🚩 Featured Projects
 
-- 🔗 [Personal Portfolio](https://github.com/jubaer-bhuiyan/personal-portfolio)
-- 🔗 [Clinic Management System](https://github.com/jubaer-bhuiyan/clinic-management-system)
-- 🔗 [Car Parking](https://github.com/jubaer-bhuiyan/car-parking)
-- 🔗 [Django Password Generator](https://github.com/jubaer-bhuiyan/django-password-generator)
+- 🔗 [Personal Portfolio Project](https://github.com/jubaer-bhuiyan/Personal-Portfolio-Project)
+- 🔗 [Clinic Management System](https://github.com/jubaer-bhuiyan/clinic_management_system)
+- 🔗 [Django Password Generator](https://github.com/jubaer-bhuiyan/django3-password-generator)
+- 🔗 [Car Parking Management System](https://github.com/jubaer-bhuiyan/Car-Parking-Management-System)
 
 *Discover more on my [GitHub Repositories](https://github.com/jubaer-bhuiyan?tab=repositories)!*
 
